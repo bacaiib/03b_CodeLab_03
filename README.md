@@ -14,7 +14,7 @@ Instanzen gelten sollen.
 - ** "Hi, I'm *XY* and I'm starting my work at the *accouting* department!";
 
 - Implementieren sie eine Methode getEmployedTime()***, welche die Betriebszugehörigkeit ausgibt.
-- *** "Hi, I'm  *XY*  and I've been working here since *3 years*.";	
+- *** "Hi, I'm  *XY*  and I've been working here for *3 years*.";	
 
 - Implementieren Sie jeweils eine **spezifische** Methode **doYourJob()** für einen Mitarbeiter in
 
