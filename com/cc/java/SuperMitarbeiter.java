@@ -51,4 +51,21 @@ public class SuperMitarbeiter {
        System.out.println("Hi ich bin "+firstName+familyName+" und ich fange an zu arbeiten!");
     }
 
+    public String getInfo(String op){
+        switch (op) {
+            case "#familyName":
+                return this.familyName;
+            case "#firstName":
+                return this.firstName;
+            case "#birthYear" :
+                return Integer.toString(this.birthYear);
+            case "#workID":
+                return this.workID;
+                
+               
+            default:
+                break;
+        }
+    }
+
 }
